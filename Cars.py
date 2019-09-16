@@ -1,4 +1,4 @@
-''' This programm simulate a Single Lane Bridge in which cars come from both sides and want to cross to the other
+''' This programm simulate a Single Lane Bridge in which cars come from both sides and want to cross on the other
 side. Every car is a thread. There are 4 scenarios.'''
 import threading
 import time
